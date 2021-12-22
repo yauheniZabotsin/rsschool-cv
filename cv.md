@@ -6,7 +6,7 @@
    * **Phone:** +375447251238
    * **discord** @yauheniZabotsin#2134
 ## About myself:
-The first time I heard about programming was at school. Then I chose Displina Informatics as my final exam and passed it perfectly.
+The first time I heard about programming was at school. Then I chose Displina Informatics as my final exam and passed it perfectly.***
 I have a higher technical education and I love to learn new technologies and achieve set goals. I will try and do my best to successfully master the new profession of Front-end developer.
 ## Skills
    * HTML
