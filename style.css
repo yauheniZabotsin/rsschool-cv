@@ -1,9 +1,11 @@
 * {
    box-sizing: border-box;
 }
+
 html {
    scroll-behavior: smooth;
 }
+
 body {
    font-family: "Poppins", sans-serif;
    font-size: 16px;
@@ -27,49 +29,61 @@ body {
    color: rgb(255, 255, 204);
    transition: color 0.5s;
 }
+
 .nav-link:hover {
    padding: 0 20px;
    background-color: black;
    color: #f0c60e;
    transition: color 0.5s;
 }
+
 .left-side {
    background-color: #2cd494;
    width: 300px;
 }
+
 .right-side {
    display: flex;
    flex-direction: column;
 }
+
 .title {
    font-family: Gill Sans Extrabold, sans-serif;
    font-size: 50px;
 }
+
 .page-title {
    padding-left: 100px;
 }
+
 .section-title {
    background-color: #c0c0c0;
    padding-left: 40px;
 }
+
 .main {
    display: flex;
 }
+
 .about-me {
    padding: 0 50px;
 }
+
 .section-item a {
    color: #7d278f;
    text-decoration: none;
    transition: color 0.5s;
 }
+
 .section-item a:hover {
    color: #4d2323;
 }
+
 .container {
    max-width: 1440px;
    margin: 0 auto;
 }
+
 .footer-container {
    display: flex;
    justify-content: space-between;
