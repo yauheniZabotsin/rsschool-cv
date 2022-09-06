@@ -44,8 +44,7 @@ showPassword.onchange = function () {
 
 ## Education
 
--  Belarusian State of Transport University
-   _Аutomation, telemechanics and communication in railway transport_
+-  Belarusian State of Transport University _Аutomation, telemechanics and communication in railway transport_
 -  [trainer on the HTML Academy](https://htmlacademy.ru)
 
 ## English
