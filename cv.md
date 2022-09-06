@@ -11,8 +11,14 @@ _future Junior Frontend Developer_
 
 ## About myself:
 
-The first time I heard about programming was at school. Then I chose Displina Informatics as my final exam and passed it perfectly.\*\*\*
-I have a higher technical education and I love to learn new technologies and achieve set goals. I will try and do my best to successfully master the new profession of Front-end developer.
+I am a engineer by training. I am planning to switch my career
+from non-IT industry to the IT after 3 years of non-IT
+experience. I am hard-working, responsible, diligent, and
+friendly person with a good sense of humor. I try to treat
+other people so as I want them to treat me. Web Development is
+my favorite hobby. In my free time I study JavaScript. I am
+particularly interested in React, Redux and other
+technologies.
 
 ## Skills
 
